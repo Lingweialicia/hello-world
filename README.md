@@ -1,2 +1,3 @@
 # hello-world
-first repository
+Hello World,
+I am a clinical social worker learning how to code
